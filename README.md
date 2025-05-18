@@ -1,6 +1,5 @@
 Power BI Sales & Profit Dashboard | Awesome Chocolates
 
-![Dashboard Screenshot](portfolio-dashboard-screenshot.png)
 
 
 
@@ -37,7 +36,8 @@ Tools & Technologies Used
 - Data Cleaning & Transformation (Power Query)
 - Custom Visualizations and KPI Design
 
-[LinkedIn - Saurabh Pandav](https://www.linkedin.com/in/saurabh-5147a1255/)
-[GitHub - sauurabh021](https://github.com/sauurabh021)
+https://www.linkedin.com/in/saurabh-5147a1255/
+
+sauurabh021](https://github.com/sauurabh021)
 
 
